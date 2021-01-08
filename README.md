@@ -22,22 +22,22 @@ Width | 75.7 mm
 Thickness | 9.6 mm
 Weight | 202 g
 Display | 6.39" (103.7 cm²) - 19.5:9
-Screen resolution | 1080 x 2340 pixels, Full HD+ Infinity Display
+Screen resolution | 1080 x 2340 pixels, AMOLED Ultra FullView
 Pixel density | 403 PPI
 Primary Camera |48 MP, f/1.8, (wide), 1/2.0", 0.8µm, PDAF + 16 MP, f/2.2, (ultrawide) + 5 MP, f/2.2, (macro) + 5 MP, f/2.2, (depth); Dual LED flash
 Video | 8.29 MP; 3840p, 2160p 4K video, 30fps
-Secondary Camera | 16 MP, f/2.0, (wide)
+Secondary Camera | 16 MP, f/2.0, (wide), Mechanical pop-up camera
 Video | 2.07 MP; 1920p, 1080p video, 30fps
-Wireless | Quick / Fast charging - 10W (Qi) + 18W Ultra Quick Charger
+Wireless | Quick / Fast charging - MediaTek Pump Express Plus
 Wifi | Yes, IEEE802.11 a/b/g/n, Supports 5G Wi-Fi Signal / Wi-Fi Direct / Wi-Fi Display
-Bluetooth | v4.1, A2DP, LE
+Bluetooth | v5.0, A2DP, LE
 USB Type-C | Yes, 2.0, reversible connector
-NFC | No
+NFC | Yes
 Network support | Both SIM slots are compatible with 4G/LTE
 SIM size | SIM1 - SIM2: Nano
 CARD slot |	microSD, up to 256 GB (microSDXC;microSDHC)
 SD slot |	SIM1 + SIM2 + microSD
-Sensors | Fingerprint (rear-mounted), Accelerometer, Gyro, Proximity, Compass
+Sensors | Fingerprint (In-display fingerprint sensor), Accelerometer, Gyro, Proximity, Compass
 
 Network | Bands
 -------:|:-------------------------
