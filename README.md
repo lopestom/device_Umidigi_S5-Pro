@@ -1,6 +1,6 @@
 # TWRP Device Tree - UMIDIGI S5 Pro - V1.1_20200702 - V3.02
 
-Download file TWRPv3.5.0_10-0: released 2021-01-07 - file test for Amidal81 4pda user.
+Download file TWRPv3.5.0_10-0: released 2021-01-07 - file test for Amidal81 4pda user. =>> NOT WORK!
 
 ## About Device
 ![UMIDIGI S5 Pro](https://cdn-files.kimovil.com/default/0004/52/thumb_351308_default_big.jpeg)
