@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/umidigi/S5_Pro
+DEVICE_PATH := device/umidigi/S5_Pro_EEA
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
