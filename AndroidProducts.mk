@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_S5_Pro.mk
+     $(LOCAL_DIR)/omni_S5_Pro_EEA.mk
 
-COMMON_LUNCH_CHOICES := omni_S5_Pro-eng
+COMMON_LUNCH_CHOICES := omni_S5_Pro_EEA-eng
