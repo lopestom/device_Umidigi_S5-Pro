@@ -1,8 +1,8 @@
 # TWRP Device Tree -  UMIDIGI_S5_Pro.E_V1.1_20200702 - S5S66A.KWE.UMIDIGI.EEA.HB.FHD.YHYEVMVNYJ.0702.V3.02
 
-Download file TWRPv3.5.0_10-0: xxxxxxxxxxxxxxxxxxxx - file test for ASD 4eveR 4pda user. =>> NOT WORK!
+Download file TWRPv3.5.0_10-0: https://github.com/lopestom/device_Umidigi_S5-Pro/releases/download/TWRP3.5.0_10-3_EEA/recovery.img
 
-
+released 2021-01-14 - file test for ASD 4eveR 4pda user. =>> waiting feedback
 
 ## About Device
 ![UMIDIGI S5 Pro](https://cdn-files.kimovil.com/default/0004/52/thumb_351308_default_big.jpeg)
