@@ -49,13 +49,13 @@ Network | Bands
 VoLte | Yes
 Speed | HSPA 42.2/5.76 Mbps, LTE-A (2CA) Cat6 300/50 Mbps
 
-**This device tree can be used to build TWRP for UMIDIGI S5 Pro**
+**This device tree can be used to build TWRP for UMIDIGI S5 Pro_EEA**
 
 
 ## Build Instructions
 ```sh
 export ALLOW_MISSING_DEPENDENCIES=true
 . build/envsetup.sh
-lunch omni_S5_Pro-eng
+lunch omni_S5_Pro_EEA-eng
 mka recoveryimage
 ```
